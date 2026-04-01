@@ -3,7 +3,7 @@
 ## Datos Personales
     **Nombre:** [Santiago Zarate Schoenfeld]
     **Legajo:** [222.804-0]
-    **Foto:** ![image alt](https://github.com/pdepviernestm/2026-tp0-Zarate12/blob/main/IMG-20250202-WA0002.jpg)
+    **Foto:** ![Mi Foto](foto.jpg)
 
 ## Sobre mi
     Hola, Soy de José C.Paz y este es mi tercer año de cursada en la facultad.
